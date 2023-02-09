@@ -26,10 +26,10 @@ The following image shows the web application's appearance and functionality:
 ## LINKS
 
 GITHUB: 
- > https://github.com/MarilynWho/calory-app/
+ > https://github.com/darylcata/calory-app
 
 LIVE PAGE:
- > https://marilynwho.github.io/calory-app/
+ > https://darylcata.github.io/calory-app/
  
  ## PRESENTATION
  
